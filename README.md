@@ -1,4 +1,4 @@
-### Hi there 👋
+### currently learning about programing
 
 <!--
 **Bulganaaa/Bulganaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
